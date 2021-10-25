@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning computer science at the university of nairobi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +254708767642
+- 📫 How to reach me calyndemo16@gmail.com
 
 <!---
 calvincec/calvincec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
