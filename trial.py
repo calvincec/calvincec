@@ -3,3 +3,4 @@ x=7
 p=8
 sum=x+p
 print("The sum is ",sum)
+p+=p
