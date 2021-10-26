@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calvincec
-- 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning computer science at the university of nairobi
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning,python,java,AI
+- 🌱 I’m currently learning the basic fundamentals in artificial intelligence
+- 💞️ I’m looking to collaborate on anything concerning data science,python,AI and machine learning
 - 📫 How to reach me calyndemo16@gmail.com
 
 <!---
