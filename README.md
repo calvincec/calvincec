@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calvincec
-- 👀 I’m interested in data science, machine learning,python,java,AI
-- 🌱 I’m currently studying data science with AI
-- 💞️ I’m looking to collaborate on anything concerning data science,python,AI and machine learning
+- 👀 I’m interested in data science, machine learning,python, AI and software development and design
+- 🌱 I’m currently studying flutter web app development, advanced c++ sql and python
+- 💞️ I’m looking to collaborate on anything concerning flutter development, data science,python,AI and machine learning
 - 📫 How to reach me calyndemo16@gmail.com
 
 <!---
